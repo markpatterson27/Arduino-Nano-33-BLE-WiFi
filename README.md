@@ -43,6 +43,7 @@ Wire the components as shown in the diagram.
 | --- | --- | --- | --- |
 |  |  |  |  |
 | +3V3 | 3.3V |  | ESP-01 VCC 3.3V |
+| +3V3 | 3.3V |  | ESP-01 CHPD/Enable |
 | GND | GND |  | ESP-01 GND |
 | TX | TX |  | ESP-01 RX |
 | RX | RX |  | ESP-01 TX |

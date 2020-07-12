@@ -12,6 +12,8 @@ The Arduino Nano 33 BLE does not have WiFi connectivity built-in. An ESP-01 will
 
 | File/Folder | Description |
 |--- | --- |
+| [arduino/wifi-connect/](arduino/wifi-connect/) | arduino sketch folder | 
+| [libraries/](libraries/) | folder containing additional libraries needed to build project |
 |  |  |
 
 <br>

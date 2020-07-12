@@ -2,6 +2,8 @@
 
 Project demonstrating how to connect an Arduino Nano 33 BLE to Wifi. (Will also work for the Arduino Nano 33 BLE Sense.)
 
+![arduino nano 33 ble connected to esp-01](assets/nano33ble-esp01-600.jpg)
+
 The Arduino Nano 33 BLE does not have WiFi connectivity built-in. An ESP-01 will be connected to the Nano 33 BLE and used as a WiFi module. The [WiFiEspAT](https://github.com/jandrassy/WiFiEspAT) library will be used.
 
 <br />
